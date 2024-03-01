@@ -1,3 +1,10 @@
+
+# TI mmWave ROS Package (Customized) - Gahan AI
+- [x] Fixed Noetic issue in CMakelists
+- [x] Added 2D configuration & Launch Files for AWR1843
+- [x] Added Camera Overlay for DepthAI OAK Cameras
+
+
 # TI mmWave ROS Package (Customized)
 
 #### Auhor and Maintainer: Leo Zhang
