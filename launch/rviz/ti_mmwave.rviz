@@ -83,7 +83,7 @@ Visualization Manager:
       Value: true
     - Class: rviz/Image
       Enabled: false
-      Image Topic: /usb_webcam/image_raw
+      Image Topic: /usb_cam/image_raw
       Max Value: 1
       Median window: 5
       Min Value: 0
@@ -95,7 +95,7 @@ Visualization Manager:
       Value: false
     - Class: rviz/Image
       Enabled: false
-      Image Topic: /usb_webcam/image_raw
+      Image Topic: /usb_cam/image_raw
       Max Value: 1
       Median window: 5
       Min Value: 0
